@@ -1,16 +1,8 @@
-# transversals
-Esquema mínim de carpetes pels projectes transversals
-
-És obligatori seguir aquesta estructura tot i que la podeu ampliar.
-
-## Atenció
-Un cop comenceu heu de canviar aquesta explicació amb la corresponent al vostre projecte (utilitzant markdown)
-
-# Aquest fitxer ha de contenir com a mínim:
- * Nom dels integrants
- * Nom del projecte
- * Petita descripció
- * Adreça del gestor de tasques (taiga, jira, trello...)
+# TR3 - Boxhead:
+ * Nom dels integrants: Marc Castro
+ * Nom del projecte: Boxhead
+ * Petita descripció: Aquest projecte és la pàgina d'administrador on podeu canviar les estadístiques dels personatges, introduïr skins...
+ * Adreça del gestor de tasques: https://trello.com/w/tr3boxhead
  * Adreça del prototip gràfic del projecte (Penpot, figma, moqups...)
- * URL de producció (quan la tingueu)
- * Estat: (explicació d'en quin punt està)
+ * URL de producció: http://www.boxheadcontrol.dam.inspedralbes.cat:7002
+ * Estat: Terminat
